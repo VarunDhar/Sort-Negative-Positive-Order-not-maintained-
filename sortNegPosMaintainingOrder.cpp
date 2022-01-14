@@ -4,7 +4,7 @@ using namespace std;
 
 void sortNeg(int arr[],int size)
 {
-	int p=0,n=1;//p is position of positive and n is for negative
+	int p=0,n=0;//p is position of positive and n is for negative
 	
 	while(n<size)
 	{
